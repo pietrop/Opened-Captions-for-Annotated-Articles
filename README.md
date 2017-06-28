@@ -2,6 +2,7 @@
 
 A guide for journalists and newsroom developers on how to use Opened captions service to create annotated articles as done by Vox.com and NPR.
 
+Notes for hands on SRCCON 2017 workshop.
 
 <!-- https://docs.google.com/presentation/d/1yI6SkJi-RqV11_fFImfh44iG011hPlgtwNzYcF2P1_U/edit#slide=id.g204b561b6b_0_15 
 
