@@ -24,4 +24,11 @@ check [`http://localhost:5000/`](http://localhost:5000/) to see if it’s workin
 
 ##  Options for deployment
 
+Chose between ngrok (local) or heroku (remote).
+
 <!-- more details, eg use ngrok in dev and heroku or EC2 in prod?-->
+
+
+## Resources
+
+- [https://github.com/voxmedia/c-span_opened_captions_server ](https://github.com/voxmedia/c-span_opened_captions_server)
