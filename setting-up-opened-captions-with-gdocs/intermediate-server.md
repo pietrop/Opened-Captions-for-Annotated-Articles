@@ -1,5 +1,6 @@
 # Setting up opened captions // intermediate server
 
+![intermediate_server_repo](/assets/intermediate_server_repo.png)
 
 ## Download intermediate server
 
