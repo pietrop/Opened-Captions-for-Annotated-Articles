@@ -1,3 +1,8 @@
 # Background // cross collaboration 
 
-<!-- Source, slack -->
+<!-- Source, slack 
+
+Hyperaud.io slack
+#opened_captions
+
+-->

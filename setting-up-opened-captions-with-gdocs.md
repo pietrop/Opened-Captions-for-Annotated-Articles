@@ -3,18 +3,7 @@
 ## Overview
 
 
-## intermediate server
-
-
-## Connect GDoc app script to intermediate server
+![Setting up opened captions with GDocs // Overview](/assets/opened_captions_annotated_article_architecture-transparent.png)
 
 
 
-## Annotations in google doc
-
-
-
-## Making an annotated article
-
-
-<!-- TODO: needs review by Kavya -->

@@ -25,7 +25,7 @@ Original description of the session
 <!-- 
 This session was a collaboration between 
 
-- Pietro Passarelli, McClatchy Video Team
+- Pietro Passarelli, autoEdit.io 
 - Kavya Sukumar, Vox Media
 - Dan Schultz, Internet Archive
 - David Eads, ProPublica  
