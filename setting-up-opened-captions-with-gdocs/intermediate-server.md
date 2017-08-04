@@ -1,28 +1,31 @@
 # Setting up opened captions // intermediate server
 
+[github repository ](https://github.com/voxmedia/c-span_opened_captions_server)
+
+
 ![intermediate_server_repo](/assets/intermediate_server_repo.png)
 
-[github repository ](https://github.com/voxmedia/c-span_opened_captions_server)
+
 
 
 
 ## Download the intermediate server
 
 
-```
+```bash
 git clone git clone https://github.com/voxmedia/c-span_opened_captions_server.git 
 ```
 
 
-```
+```bash
 cd c-span_opened_captions_server
 ```
 
-```
+```bash
 npm install
 ```
 
-```
+```bash
 npm start
 ```
 check [`http://localhost:5000/`](http://localhost:5000/) to see if it’s working
