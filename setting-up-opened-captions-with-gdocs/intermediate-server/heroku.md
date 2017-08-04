@@ -1,4 +1,4 @@
-# heroku
+# Heroku
 
 Another option is to use heroku 
 
