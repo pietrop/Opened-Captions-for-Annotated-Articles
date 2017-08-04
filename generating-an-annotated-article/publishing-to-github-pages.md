@@ -30,11 +30,16 @@ git push -u origin master
 - Activate github pages from `docs` folder in settings. 
 
 
-[Simpler GitHub Pages publishing](https://github.com/blog/2228-simpler-github-pages-publishing) using `docs` folder in master branch.
 
-[Github pages documentation ](https://help.github.com/categories/github-pages-basics/)
+
+
 
 
 ## Documentation 
 - [Installing git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [Create repo in github](https://help.github.com/articles/create-a-repo/)
+- [Simpler GitHub Pages publishing](https://github.com/blog/2228-simpler-github-pages-publishing) using `docs` folder in master branch.
+- [Github publish from `docs` folder](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
+- [Github pages documentation ](https://help.github.com/categories/github-pages-basics/)
+
+
