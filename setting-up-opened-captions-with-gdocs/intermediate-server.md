@@ -37,6 +37,10 @@ Chose between [ngrok (local)](/setting-up-opened-captions-with-gdocs/intermediat
 <!-- more details, eg use ngrok in dev and heroku or EC2 in prod?-->
 
 
+## Extra dev option
+Intermedia server can be tweaked to customise the output.
+For instance you could add auto punctuation [using punctuator](http://bark.phon.ioc.ee/punctuator).
+
 ## Resources
 
 - [https://github.com/voxmedia/c-span_opened_captions_server ](https://github.com/voxmedia/c-span_opened_captions_server)
