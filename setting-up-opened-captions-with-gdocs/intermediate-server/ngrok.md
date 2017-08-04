@@ -16,9 +16,9 @@ ngrok http 5000
 
 This will give you a url like this `http://c8b8351d.ngrok.io/`   
 which you can add to the google app script, 
-as described in next section.
+[as described in next section](/setting-up-opened-captions-with-gdocs/google-app-script.md).
 
-![](/assets/ngrok_terminal.png)# Ngrok 
+![Ngrok terminal](/assets/ngrok_terminal.png)
 
 
 
