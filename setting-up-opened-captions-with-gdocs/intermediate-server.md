@@ -2,7 +2,11 @@
 
 ![intermediate_server_repo](/assets/intermediate_server_repo.png)
 
-## Download intermediate server
+[github repository ](https://github.com/voxmedia/c-span_opened_captions_server)
+
+
+
+## Download the intermediate server
 
 
 ```
@@ -25,7 +29,7 @@ check [`http://localhost:5000/`](http://localhost:5000/) to see if it’s workin
 
 ##  Options for deployment
 
-Chose between ngrok (local) or heroku (remote).
+Chose between [ngrok (local)](/setting-up-opened-captions-with-gdocs/intermediate-server/ngrok.md) or [heroku (remote)](/setting-up-opened-captions-with-gdocs/intermediate-server/heroku.md).
 
 <!-- more details, eg use ngrok in dev and heroku or EC2 in prod?-->
 

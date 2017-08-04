@@ -1,8 +1,13 @@
-# Context //Annotated Speech
+# Context // Annotated speeches
 
 
-<!-- links and Screenshots from NPR and Vox Articles 
- -->
+![overview of examples](/assets/annotated_articles_examples.png)
+
+- NPR
+- Vox.com
+- Boston Globe
+- NY Times
+
  
 ## NPR
 

@@ -7,7 +7,7 @@
 * [Setting up Opened captions with GDocs](setting-up-opened-captions-with-gdocs.md)
   * [Intermediate server](setting-up-opened-captions-with-gdocs/intermediate-server.md)
     * [ngrok](setting-up-opened-captions-with-gdocs/intermediate-server/ngrok.md)
-    * heroku
+    * [heroku](setting-up-opened-captions-with-gdocs/intermediate-server/heroku.md)
   * [google app script](setting-up-opened-captions-with-gdocs/google-app-script.md)
 * [annotations in google doc](what-is-opened-captions/annotations-in-google-doc.md)
 * [generating an annotated article](generating-an-annotated-article.md)
