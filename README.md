@@ -38,6 +38,14 @@ Original description of the session
 
 >This is an hands on session, drawing on experience from Vox and NPR collaboration, participants will also be shown how to export the annotated speech from the google doc into a news article static web page, that could be ready for publication.
 
+## Collaborative notes from session 
+
+Collaborative notes
+http://bit.ly/OCSRCCON
+Or
+https://etherpad.opennews.org/p/SRCCON2017-live-factchecking  
+ 
+
 
 ## This session, documentation and resources was a collaboration between 
 
