@@ -49,3 +49,4 @@ bundle exec middleman
 ## Documentation 
 
 - [Middleman - static site generator](http://middlemanapp.com)
+- [Middleman data folder](https://middlemanapp.com/advanced/data-files/)
