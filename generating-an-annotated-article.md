@@ -8,7 +8,7 @@
 
 1 Set up API access and credentials for the[ annotated google doc](/what-is-opened-captions/annotations-in-google-doc.md) at [https://console.cloud.google.com](https://console.cloud.google.com)
 
-See this tutorial by David:
+See this tutorial by David: 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/iH7XtXoiuQk" frameborder="0" allowfullscreen></iframe>
 
