@@ -44,7 +44,8 @@ Collaborative notes
 http://bit.ly/OCSRCCON
 Or
 https://etherpad.opennews.org/p/SRCCON2017-live-factchecking  
- 
+
+[slides from event](https://docs.google.com/presentation/d/1yI6SkJi-RqV11_fFImfh44iG011hPlgtwNzYcF2P1_U/edit?usp=sharing) 
 
 
 ## This session, documentation and resources was a collaboration between 
