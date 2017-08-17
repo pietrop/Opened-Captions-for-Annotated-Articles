@@ -41,7 +41,18 @@ Original description of the session
 
 ## Annotated Article example
 
+As an example see [President Trump's inauguration speech, annotated
+by Vox Staff on January 20, 2017](https://www.vox.com/a/president-trump-inauguration-speech-transcript-annotations)
+
 ![Vox annotation](/assets/Vox_annotation.png) 
+
+## Overview
+
+![Setting up opened captions with GDocs // Overview](/assets/opened_captions_annotated_article_architecture-transparent.png)
+
+
+
+
 
 
 ## Collaborative notes from session 
