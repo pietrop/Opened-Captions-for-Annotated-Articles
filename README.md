@@ -39,16 +39,19 @@ Original description of the session
 >This is an hands on session, drawing on experience from Vox and NPR collaboration, participants will also be shown how to export the annotated speech from the google doc into a news article static web page, that could be ready for publication.
 
 
-## Annotated Article example
+## Overview
+
+This open source system leverages a live stream of  tv captions from the [opened captions service](www.openedcaptions.com) and[ makes it available](/setting-up-opened-captions-with-gdocs/intermediate-server.md) for [editing and annotations in a google doc](/setting-up-opened-captions-with-gdocs/google-app-script.md). 
+
+Once the annotations are  ready [a web article can be created using a static site generator](/generating-an-annotated-article.md).
+
+![Setting up opened captions with GDocs // Overview](/assets/opened_captions_annotated_article_architecture-transparent.png)
 
 As an example see [President Trump's inauguration speech, annotated
 by Vox Staff on January 20, 2017](https://www.vox.com/a/president-trump-inauguration-speech-transcript-annotations)
 
 ![Vox annotation](/assets/Vox_annotation.png) 
 
-## Overview
-
-![Setting up opened captions with GDocs // Overview](/assets/opened_captions_annotated_article_architecture-transparent.png)
 
 
 
