@@ -32,7 +32,7 @@ Raw transcription published before annotated one for inauguration speech for SEO
 Eg at Vox annotated transcription got 457% more views than raw one.
 
  
- ![](/assets/vox_statistics.png)
+ ![Vox Example](/assets/vox_statistics.png)
  
  ### NPR example
  

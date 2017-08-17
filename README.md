@@ -38,6 +38,12 @@ Original description of the session
 
 >This is an hands on session, drawing on experience from Vox and NPR collaboration, participants will also be shown how to export the annotated speech from the google doc into a news article static web page, that could be ready for publication.
 
+
+## Annotated Article example
+
+![Vox annotation](/assets/Vox_annotation.png) 
+
+
 ## Collaborative notes from session 
 
 Collaborative notes
