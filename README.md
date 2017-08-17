@@ -39,7 +39,7 @@ Original description of the session
 >This is an hands on session, drawing on experience from Vox and NPR collaboration, participants will also be shown how to export the annotated speech from the google doc into a news article static web page, that could be ready for publication.
 
 
-## Overview
+## Overview & example
 
 This open source system leverages a live stream of  tv captions from the [opened captions service](www.openedcaptions.com) and[ makes it available](/setting-up-opened-captions-with-gdocs/intermediate-server.md) for [editing and annotations in a google doc](/setting-up-opened-captions-with-gdocs/google-app-script.md). 
 
