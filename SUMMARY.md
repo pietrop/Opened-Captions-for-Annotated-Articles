@@ -1,5 +1,7 @@
 # Summary
 
+## Open source rig
+
 * [Introduction](README.md)
   * [Video of presentation](video-of-presentation.md)
 * [Context](context.md)
